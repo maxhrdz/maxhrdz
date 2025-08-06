@@ -23,14 +23,6 @@
 **Frameworks & Tools:**  
 `Node.js` `React` `AWS` `MySQL` `Bootstrap` `Git` `Eclipse` `Xcode` `Jupyter` `Android Studio`
 
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="350" />
-</p>
-
 ---
 
 ### 📫 Contact Me
